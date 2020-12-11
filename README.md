@@ -10,9 +10,5 @@
 	<a href="https://www.instagram.com/khang_n_t/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
 </p>
 
-### Spotify Playing 🎧
-
-[<img src="https://open.spotify.com/playlist/1gHvVV5AA5PMfK5MHdwntq" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
 #### Profile views counter
 ![Visitor Count](https://profile-counter.glitch.me/{nthanhkhang}/count.svg)
