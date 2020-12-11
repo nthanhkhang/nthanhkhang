@@ -12,7 +12,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://open.spotify.com/playlist/1gHvVV5AA5PMfK5MHdwntq" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 #### Profile views counter
 ![Visitor Count](https://profile-counter.glitch.me/{nthanhkhang}/count.svg)
