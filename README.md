@@ -10,5 +10,5 @@
 	<a href="https://www.instagram.com/khang_n_t/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
 </p>
 
-#### Profile views counter
+### Profile views counter
 ![Visitor Count](https://profile-counter.glitch.me/{nthanhkhang}/count.svg)
