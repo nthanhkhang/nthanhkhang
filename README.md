@@ -9,7 +9,6 @@
 	<a href="https://www.facebook.com/thanhkhang.profile/"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
 	<a href="https://www.instagram.com/khang_n_t/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
 	<a href="https://twitter.com/nthanhkhang_"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
-	<a href="nthanhkhang@outlook.com"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/email.png"/></a>
 </p>
 
 ### Profile views counter
