@@ -1,4 +1,4 @@
 # Hi there, I'm Thành Khang
 
-[![J2TEAM](dino.gif)](https://j2team.dev/?utm_source=github&utm_medium=github_profile)
 
+<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
